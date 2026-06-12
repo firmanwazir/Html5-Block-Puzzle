@@ -1,6 +1,8 @@
 # 🧩 Block Drop
 
 > A beautifully polished, addictive block puzzle game built entirely with Vanilla JavaScript and HTML5 Canvas.
+> 
+> **[🚀 PLAY THE GAME LIVE HERE!](https://firmanwazir.github.io/Html5-Block-Puzzle/)**
 
 <p align="center">
   <img src="assets/main_menu.webp" alt="Main Menu" width="300" />
