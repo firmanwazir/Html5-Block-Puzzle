@@ -1,0 +1,31 @@
+# Dependensi & Tooling lokal
+node_modules/
+package-lock.json
+
+# File sistem & OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# File editor & IDE (VS Code, WebStorm, dsb)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Folder build (Jika suatu saat nanti Anda mem-build gamenya)
+dist/
+build/
+out/
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
